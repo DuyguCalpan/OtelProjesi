@@ -44,14 +44,47 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BosOdalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BosOdalar.Designer.cs">
+      <DependentUpon>BosOdalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoluOdalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoluOdalar.Designer.cs">
+      <DependentUpon>DoluOdalar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="MusteriAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriAra.Designer.cs">
+      <DependentUpon>MusteriAra.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BosOdalar.resx">
+      <DependentUpon>BosOdalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BosOdalar.tr-TR.resx">
+      <DependentUpon>BosOdalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoluOdalar.resx">
+      <DependentUpon>DoluOdalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriAra.resx">
+      <DependentUpon>MusteriAra.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

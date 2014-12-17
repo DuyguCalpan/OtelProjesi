@@ -1,1 +1,15 @@
 C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\bin\Debug\Otel.exe.config
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\bin\Debug\Otel.exe
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\bin\Debug\Otel.pdb
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.Form1.resources
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.exe
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.pdb
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.BosOdalar.resources
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.DoluOdalar.resources
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.MusteriAra.resources
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\bin\Debug\tr-TR\Otel.resources.dll
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\Otel.BosOdalar.tr-TR.resources
+C:\Users\Administrator\Desktop\OtelProjesi\Otel\Otel\obj\Debug\tr-TR\Otel.resources.dll
